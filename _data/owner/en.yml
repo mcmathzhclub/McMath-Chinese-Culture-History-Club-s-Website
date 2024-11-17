@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "Email: mcmathclubbusiness@gmail.com"
+  sub_title: ""
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
@@ -48,12 +48,12 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  - github: "McMathChineseClub"
+  #- github: "McMathChineseClub"
   # email: "mailto: mcmathclubbusiness@gmail.com"
   #- linkedin: ""
   #- twitter: ""
   #- mastodon: ""
-  - instagram: "https://www.instagram.com/mcmath_chinesecultureclub/?igsh=cHZvdWp2M24yOWtq"
+  #- instagram: "https://www.instagram.com/mcmath_chinesecultureclub/?igsh=cHZvdWp2M24yOWtq"
   #- youtube: ""
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
