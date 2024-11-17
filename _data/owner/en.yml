@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "McMath Chinese Club"
+brand: "R.A. McMath Chinese Culture & History Club"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: "R.A.McMath Chinese Culture & History Club"
 
 # used for seo meta post author (if it's not defined in post)
-name: "McMath Chinese Club"
+name: "R.A. McMath Chinese Culture & History Club"
 
 # home page top header texts
 home:
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "$site_sample"
+  sub_title: "R.A.McMath Chinese Culture & History Club"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
@@ -49,7 +49,7 @@ meta_common_description: "Your meta description."
 # comment to remove any contact item
 contacts:
   - github: "McMathChineseClub"
-  - email: "mailto: mcmathclubbusiness@gmail.com"
+  # email: "mailto: mcmathclubbusiness@gmail.com"
   #- linkedin: ""
   #- twitter: ""
   #- mastodon: ""
