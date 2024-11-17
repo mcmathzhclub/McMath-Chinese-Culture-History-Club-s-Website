@@ -5,7 +5,7 @@
 brand: "R.A. McMath Chinese Culture & History Club"
 
 # text below the brand name
-brand_sub_text: "R.A.McMath Chinese Culture & History Club"
+brand_sub_text: "Email: mcmathclubbusiness@gmail.com"
 
 # used for seo meta post author (if it's not defined in post)
 name: "R.A. McMath Chinese Culture & History Club"
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "R.A.McMath Chinese Culture & History Club"
+  sub_title: "Email: mcmathclubbusiness@gmail.com"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
