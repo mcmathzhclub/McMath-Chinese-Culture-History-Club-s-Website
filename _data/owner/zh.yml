@@ -5,7 +5,7 @@
 brand: "麦克迈斯中文俱乐部"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: ""
 
 # used for seo meta post author (if it's not defined in post)
 name: "麦克迈斯中文俱乐部"
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "$site_sample"
+  sub_title: ""
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
