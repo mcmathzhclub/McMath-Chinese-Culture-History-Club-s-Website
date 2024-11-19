@@ -60,12 +60,12 @@ date: 2024-10-22 08:30:00 +0000
 俱乐部全年都会举办不同的活动，比如筷子技巧竞赛、做灯笼、学习中国围棋、中国书法等。
 
 #### 团队成员:
-主席: Jiahao W
-副主席: George Y
-媒体主管: Lily Y
-秘书: CJ C
-技术总监: Jason S
-摄影: Raymond W
+主席: Jiahao W<br>
+副主席: George Y<br>
+媒体主管: Lily Y<br>
+秘书: CJ C<br>
+技术总监: Jason S<br>
+摄影: Raymond W<br>
 
 #### 社交帐号
 <p><a href="https://www.instagram.com/mcmath_chinesecultureclub/?igsh=cHZvdWp2M24yOWtq">请关注我们的Instgram账号</a></p>
