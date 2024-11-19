@@ -4,7 +4,7 @@ layout: about
 lng_pair: id_about
 
 # image for page specific usage
-img: ":about.jpg"
+img: ":assets/img/default/logo.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -40,5 +40,8 @@ img: ":about.jpg"
 
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
-
+Email: mcmathclubbusiness@gmail.com
 {{ website_info_text_second }}
+Instagram: https://www.instagram.com/mcmath_chinesecultureclub/?igsh=cHZvdWp2M24yOWtq
+{{ website_info_text_third }}
+President's Wechat: weijiahaochuiniupi
