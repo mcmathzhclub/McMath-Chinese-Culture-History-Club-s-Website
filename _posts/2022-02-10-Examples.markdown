@@ -67,7 +67,6 @@ Tech: Jason S
 Photographer: Raymond W
 
 #### Link of Social Media
-<a href="https://www.example.com">Follow our club on Instagram</a>
 <p><a href="https://www.instagram.com/mcmath_chinesecultureclub/?igsh=cHZvdWp2M24yOWtq">Follow our club on Instagram</a></p>
 
 ![such a lovely place](:post_pic1.jpg){:data-align="center"}
