@@ -40,8 +40,12 @@ img: ":about2.jpg"
 
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
-Email: mcmathclubbusiness@gmail.com
+McMath Chinese Cultural & History Club is where people get to learn and explore the amazing culture and history of China. Our school motto, "together we learn", helps us to study together with a positive attitude.
 {{ website_info_text_second }}
-Instagram: mcmath_chinesecultureclub
+
 {{ website_info_text_third }}
+Email: mcmathclubbusiness@gmail.com
+{{ website_info_text_fourth }}
+Instagram: mcmath_chinesecultureclub
+{{ website_info_text_fifth }}
 President's Wechat: weijiahaochuiniupi
