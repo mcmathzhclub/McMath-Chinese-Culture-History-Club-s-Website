@@ -49,3 +49,17 @@ Email: mcmathclubbusiness@gmail.com
 Instagram: mcmath_chinesecultureclub
 {{ website_info_text_fifth }}
 President's Wechat: weijiahaochuiniupi
+{{ website_info_text_sixth }}
+Executives：
+{{ website_info_text_seventh }}
+President：Jiahao W
+{{ website_info_text_eighth }}
+Co-President： George Y
+{{ website_info_text_ninth }}
+Social Media Direct： Lily Y
+{{ website_info_text_tenth }}
+Secretary: CJ C
+{{ website_info_text_eleventh }}
+Tech Direct: Jason S
+{{ website_info_text_thirteen }}
+Photographer: Raymond W
