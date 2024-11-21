@@ -40,7 +40,7 @@ img: ":about2.jpg"
 
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
-麦克麦斯中国俱乐部是一个让人们学习和探索中国的历史以及传统文化的社团。我们时刻铭记校训“携手共学，共同成长”。这有助于我们以积极的态度一起学习和进步。
+麦克迈斯中文俱乐部是一个让人们学习和探索中国的历史以及传统文化的社团。我们时刻铭记校训“携手共学，共同成长”。这有助于我们以积极的态度一起学习和进步。
 
 {{ website_info_text_second }}
 
