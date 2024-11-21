@@ -25,50 +25,13 @@ page_data:
   list:
     # First Meeting
     - type: id_meeting
-      project_name: "First Meeting"
-      project_excerpt: "McMath Chinese Culture & History Club's First Meeting"
-      img: ":projects-heading.jpg"
-      img_title: "R.A.McMath Secondary School"
-      date: "2024-10-21"
-      post: |
+    - project_name: "First Meeting"
+    - project_excerpt: "McMath Chinese Culture & History Club's First Meeting"
+    - img: ":projects-heading.jpg"
+    - img_title: "R.A.McMath Secondary School"
+    - date: "2024-10-21"
+    - post: |
         # First Meeting
         Chinese Culture & History Club <kbd>FIRST MEETING</kbd> will be held tomorrow (Oct. 22, 2024) at PLT In Ms.Sun's room 13183 (lower C-wing). 
         Come down for important information about this years events and meetings.
         Snacks will also be handed out for people who will come to the meeting. Hope to see everyone there!
-
-    # Second Meeting
-    - type: id_meeting
-      project_name: "Second Meeting"
-      project_excerpt: "McMath Chinese Culture & History Club's Second Meeting"
-      img: ":projects-heading.jpg"
-      img_title: "R.A.McMath Secondary School"
-      date: "2024-11-13"
-      post: |
-        # Second Meeting
-        Chinese Culture & History Club Second Meeting will be held next week tuesday (Nov. 19, 2024) at PLT In Ms.Sun's room C-13183 (lower C-wing). 
-        Come down for important information about this years events and meetings.
-        We will be discussing some video games and chess together. 
-        Board games will be played as well.
-        Hope to see everyone there!
-
-    # Meeting Information
-    - type: id_meeting
-      project_name: "Meeting Information"
-      project_excerpt: "McMath Chinese Culture & History Club's Meeting Information"
-      img: ":projects-heading.jpg"
-      img_title: "R.A.McMath Secondary School"
-      date: "2024-11-13"
-      post: |
-        A reminder to everyone that our meetings will be held biweekly after that.
-        In addition, our meetings will take place from <kbd>8:35-9:20</kbd>, so please be on time!                                                                                                                
-
-    # Second Meeting Reminder
-    - type: id_meeting
-      project_name: "Second Meeting Reminder"
-      project_excerpt: "McMath Chinese Culture & History Club's Second Meeting's Reminder"
-      #img: ":projects-heading.jpg"
-      #img_title: "R.A.McMath Secondary School"
-      date: "2024-11-18"
-      post: |
-      A reminder to everyone that our seconed meeting is tomorrow Tuesday (Nov. 19, 2024)) at PLT in Ms.Sun's room C-13183.
-      Hope to see you all there!
