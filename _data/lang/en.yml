@@ -112,8 +112,8 @@ post:
 
 # for post-list layout
 post-list:
-  title: Memorandum 
-  button_name: Memorandum 
+  title: News 
+  button_name: News 
   upside_down_tabs:
     tab:
       all: All
@@ -156,13 +156,13 @@ about:
 # for links layout
 links:
   title: Links
-  button_name: myLinks
+  button_name: Links
   link_text: Web site
   info_text: Info
 
 # for projects layout
 projects:
-  title: Announcement
+  title: Announce
   button_name: Announcement
   read_more_text: Read more
   read_less_text: Read less
