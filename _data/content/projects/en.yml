@@ -61,7 +61,7 @@ page_data:
         In addition, our meetings will take place from <kbd>8:35-9:20</kbd>, so please be on time!
 
     #Event
-    - type: id_event
+    - type: id_meeting
       project_name: "Second Meeting Reminder"
       project_excerpt: "McMath Chinese Culture & History Club's Second Meeting's Reminder"
       #img: ":projects-heading.jpg"
