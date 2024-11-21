@@ -23,6 +23,19 @@ page_data:
       color: "#2FD0ED"
 
   list:
+    # Meeting
+    - type: id_example
+      project_name: "First Meeting"
+      project_excerpt: "McMath Chinese Culture & History Club"
+      img: ":projects-heading.jpg"
+      img_title: "R.A.McMath Secondary"
+      date: "2024-10-21"
+      post: |
+        # Title
+        This is project content.
+
+        ![Image](:project2_thumb.jpg)
+        
     # picture
     - type: id_picture
       project_name: "Example Project"
