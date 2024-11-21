@@ -53,6 +53,12 @@ Instagram: mcmath_chinesecultureclub
 {{ website_info_text_fith }}
 主席微信: weijiahaochuiniupi
 
+{{ website_info_text_second }}
+指导教师: Jennifer Sun女士
+
+{{ website_info_text_secondone }}
+指导教师邮箱: jsun@sd38.bc.ca
+
 {{ website_info_text_sixth }}
 团队成员：
 
