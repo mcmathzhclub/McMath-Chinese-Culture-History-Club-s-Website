@@ -69,14 +69,3 @@ page_data:
       post: |
         A reminder to everyone that our seconed meeting is tomorrow Tuesday (Nov. 19, 2024) at PLT in Ms.Sun's room C-13183.
         Hope to see you all there!
-
-    #Event
-    - type: id_event
-      project_name: "Second Meeting Reminder"
-      project_excerpt: "McMath Chinese Culture & History Club's Second Meeting's Reminder"
-      #img: ":projects-heading.jpg"
-      #img_title: "R.A.McMath Secondary School"
-      date: "2024-11-18"
-      post: |
-        A reminder to everyone that our seconed meeting is tomorrow Tuesday (Nov. 19, 2024) at PLT in Ms.Sun's room C-13183.
-        Hope to see you all there!
