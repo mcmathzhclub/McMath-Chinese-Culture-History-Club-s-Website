@@ -13,7 +13,7 @@ page_data:
 
   category:
     - title: "Meeting"
-      type: id_example
+      type: id_meeting
       color: "gray"
     - title: "Event"
       type: id_picture
@@ -24,18 +24,18 @@ page_data:
 
   list:
     # Meeting
-    - type: id_example
+    - type: id_meeting
       project_name: "First Meeting"
       project_excerpt: "McMath Chinese Culture & History Club"
       img: ":projects-heading.jpg"
       img_title: "R.A.McMath Secondary"
       date: "2024-10-21"
       post: |
-        # Title
-        This is project content.
+        # First Meeting
+        Chinese Culture & History Club's FIRST MEETING will be held tomorrow (Oct. 22, 2024) at PLT In Ms.Sun's room 13183 (lower C-wing). 
+        Come down for important information about this years events and meetings.
+        Snacks will also be handed out for people who will come to the meeting. Hope to see everyone there!
 
-        ![Image](:project2_thumb.jpg)
-        
     # picture
     - type: id_picture
       project_name: "Example Project"
