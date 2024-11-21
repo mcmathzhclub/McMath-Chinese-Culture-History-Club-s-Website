@@ -42,6 +42,6 @@ img: ":about2.jpg"
 {{ website_info_text_first }}
 Email: mcmathclubbusiness@gmail.com
 {{ website_info_text_second }}
-Instagram: https://www.instagram.com/mcmath_chinesecultureclub/?igsh=cHZvdWp2M24yOWtq
+Instagram: mcmath_chinesecultureclub
 {{ website_info_text_third }}
 President's Wechat: weijiahaochuiniupi
