@@ -4,26 +4,26 @@
 ###########################################################
 page_data:
   main:
-    header: "Announcement"
-    info: "McMath Chinese Culture & History Club"
+    header: "Projects"
+    info: "Your Project page description."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
     back_color: "lightblue"
 
   category:
-    - title: "Meeting"
-      type: id_meeting
+    - title: "Example"
+      type: id_example
       color: "gray"
-    - title: "Event"
-      type: id_events
+    - title: "Picture"
+      type: id_picture
       color: "#62b462"
-    - title: "Executive"
-      type: id_executive
+    - title: "Quote"
+      type: id_quote
       color: "#2FD0ED"
-  
+
   list:
-    # First Meeting
+    # example
     - type: id_example
       project_name: "Example Project"
       project_excerpt: "Examples"
