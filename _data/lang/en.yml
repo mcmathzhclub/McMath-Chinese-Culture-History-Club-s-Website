@@ -174,8 +174,8 @@ privacy-policy:
 # constants to be replaced for
 constants:
   greetings: Hello
-  welcome: Welcome
-  sample: Sample
+  welcome: Welcome to
+  sample: Welcome to the homepage of McMath Chinese Culture & History Club
 
 # for contact form
 contact_form:
