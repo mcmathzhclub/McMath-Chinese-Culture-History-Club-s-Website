@@ -113,8 +113,8 @@ post:
 
 # for post-list layout
 post-list:
-  title: 博客
-  button_name: 博客
+  title: 公告
+  button_name: 公告
   upside_down_tabs:
     tab:
       all: All
@@ -163,8 +163,8 @@ links:
 
 # for projects layout
 projects:
-  title: 项目
-  button_name: 项目
+  title: 通知
+  button_name: 通知
   read_more_text: 阅读更多信息
   read_less_text: 阅读较少信息
 
