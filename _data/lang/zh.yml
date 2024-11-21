@@ -174,9 +174,9 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: 你好
-  welcome: 欢迎
-  sample: 样本
+  greetings: 你好来到
+  welcome: 校训：携手共学，共同成长
+  sample: 
 
 # for contact form
 contact_form:
