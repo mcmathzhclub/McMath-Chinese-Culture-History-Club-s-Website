@@ -26,7 +26,7 @@ page_data:
     # Meeting
     - type: id_meeting
       project_name: "First Meeting"
-      project_excerpt: "McMath Chinese Culture & History Club"
+      project_excerpt: "McMath Chinese Culture & History Club's First Meeting"
       img: ":projects-heading.jpg"
       img_title: "R.A.McMath Secondary"
       date: "2024-10-21"
