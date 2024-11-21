@@ -4,7 +4,7 @@ layout: about
 lng_pair: id_about
 
 # image for page specific usage
-img: ":about.jpg"
+img: ":about2.jpg"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -40,5 +40,36 @@ img: ":about.jpg"
 
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
+麦克麦斯中国俱乐部是一个让人们学习和探索中国的历史以及传统文化的社团。我们时刻铭记校训“携手共学，共同成长”。这有助于我们以积极的态度一起学习和进步。
 
 {{ website_info_text_second }}
+
+{{ website_info_text_third }}
+电子邮件: mcmathclubbusiness@gmail.com
+
+{{ website_info_text_fourth }}
+Instagram: mcmath_chinesecultureclub
+
+{{ website_info_text_fith }}
+主席微信: weijiahaochuiniupi
+
+{{ website_info_text_sixth }}
+团队成员：
+
+{{ website_info_text_seventh }}
+主席：Jiahao W
+
+{{ website_info_text_eighth }}
+副主席： George Y
+
+{{ website_info_text_ninth }}
+媒体主管： Lily Y
+
+{{ website_info_text_tenth }}
+秘书: CJ C
+
+{{ website_info_text_eleventh }}
+技术总监: Jason S
+
+{{ website_info_text_thirteen }}
+摄影: Raymond W
