@@ -174,8 +174,8 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: 你好来到
-  welcome: 校训：携手共学，共同成长
+  greetings: 校训：携手共学，共同成长
+  welcome: 欢迎来到
   sample: 
 
 # for contact form
