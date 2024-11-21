@@ -13,7 +13,7 @@ page_data:
 
   category:
     - title: "Meeting"
-      type: id_meeting
+      type: id_example
       color: "gray"
     - title: "Event"
       type: id_picture
@@ -23,15 +23,15 @@ page_data:
       color: "#2FD0ED"
 
   list:
-    # Meeting
-    - type: id_meeting
-      project_name: "First Meeting"
-      project_excerpt: "McMath Chinese Culture & History Club's First Meeting"
-      img: ":projects-heading.jpg"
-      img_title: "R.A.McMath Secondary School"
-      date: "2024-10-21"
+    # example
+    - type: id_example
+      project_name: "Example Project"
+      project_excerpt: "Examples"
+      img: ":project1_thumb.jpg"
+      img_title: "img title1"
+      date: "2021-03-13"
       post: |
-      # Examples
+        # Examples
 
         This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
 
