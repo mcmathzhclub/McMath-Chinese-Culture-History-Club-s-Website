@@ -71,7 +71,7 @@ page_data:
         Hope to see you all there!
 
     #Event
-    - type: id_meeting
+    - type: id_event
       project_name: "Second Meeting Reminder"
       project_excerpt: "McMath Chinese Culture & History Club's Second Meeting's Reminder"
       #img: ":projects-heading.jpg"
