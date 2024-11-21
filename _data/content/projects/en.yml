@@ -16,10 +16,10 @@ page_data:
       type: id_meeting
       color: "gray"
     - title: "Event"
-      type: id_picture
+      type: id_event
       color: "#62b462"
     - title: "Executive"
-      type: id_quote
+      type: id_excutive
       color: "#2FD0ED"
 
   list:
@@ -32,22 +32,23 @@ page_data:
       date: "2024-10-21"
       post: |
         # First Meeting
-        Chinese Culture & History Club's FIRST MEETING will be held tomorrow (Oct. 22, 2024) at PLT In Ms.Sun's room 13183 (lower C-wing). 
+        Chinese Culture & History Club's FIRST MEETING will be held tomorrow (Oct. 22, 2024) at PLT in Ms.Sun's room 13183 (lower C-wing). 
         Come down for important information about this years events and meetings.
         Snacks will also be handed out for people who will come to the meeting. Hope to see everyone there!
 
-    # picture
-    - type: id_picture
-      project_name: "Example Project"
-      project_excerpt: "Picture"
-      img: ":project2_thumb.jpg"
-      img_title: "img title2"
-      date: "2021-04-23"
+    - type: id_meeting
+      project_name: "Second Meeting"
+      project_excerpt: "McMath Chinese Culture & History Club's Second Meeting"
+      img: ":projects-heading.jpg"
+      img_title: "R.A.McMath Secondary"
+      date: "2024-11-13"
       post: |
-        # Title
-        This is project content.
-
-        ![Image](:project2_thumb.jpg)
+        # Second Meeting
+        Chinese Culture & History Club SECOND MEETING will be held next week tuesday (Nov. 19, 2024) at PLT in Ms.Sun's room C-13183 (lower C-wing). 
+        Come down for important information about this years events and meetings.
+        We will be discussing some video games and chess together. 
+        Board games will be played as well.
+        Hope to see everyone there!
 
     # quote
     - type: id_quote
