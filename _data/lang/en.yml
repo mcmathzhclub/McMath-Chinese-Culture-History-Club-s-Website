@@ -155,8 +155,8 @@ about:
 
 # for links layout
 links:
-  title: Links
-  button_name: Links
+  title: myLinks
+  button_name: myLinks
   link_text: Web site
   info_text: Info
 
