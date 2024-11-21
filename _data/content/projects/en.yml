@@ -63,7 +63,7 @@ page_data:
     - type: id_meeting
       project_name: "Second Meeting Reminder"
       project_excerpt: "McMath Chinese Culture & History Club's Second Meeting's Reminder"
-      #img: ":assets/img/projects/project3.jpg"
+      #img: ":project3.jpg"
       #img_title: "R.A.McMath Secondary School"
       date: "2024-11-18"
       post: |
