@@ -23,7 +23,7 @@ page_data:
       color: "#2FD0ED"
 
   list:
-    # picture
+    # 会议
     - type: id_meeting
       project_name: "俱乐部首次会议"
       project_excerpt: "俱乐部首次会议将于明天（2024年10月22日）举行。"
