@@ -13,27 +13,28 @@ page_data:
 
   category:
     - title: "会议"
-      type: id_meeting
+      type: id_example
       color: "gray"
     - title: "活动"
-      type: id_event
+      type: id_picture
       color: "#62b462"
     - title: "人事"
-      type: id_excecutive
+      type: id_quote
       color: "#2FD0ED"
 
   list:
-    # 会议
-    - type: id_meeting
-      project_name: "首次会议"
-      project_excerpt: "俱乐部首次会议将于明天（2024年10月22日）的自习课（PLT）举行。"
-      img: ":projects-heading.jpg"
-      img_title: "R.A.McMath Secondary School"
-      date: "2024-10-21"
+    # picture
+    - type: id_picture
+      project_name: "项目示例"
+      project_excerpt: "图片"
+      img: ":project2_thumb.jpg"
+      img_title: "img title2"
+      date: "2021-04-23"
       post: |
-      麦克迈斯中文俱乐部的首次会议将于明天（2024年10月22日）的自习课（PLT）在孙老师的教室（13183室，C楼下层）举行。 
-      请社员出席会议以了解有关今年的活动和日程安排等的重要信息。
-      社团还将为参加会议的人员分发小吃。希望在那里见到大家！
+        # Title
+        This is project content.
+
+        ![Image](:project2_thumb.jpg)
 
     # quote
     - type: id_quote
