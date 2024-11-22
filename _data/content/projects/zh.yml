@@ -13,7 +13,7 @@ page_data:
 
   category:
     - title: "会议"
-      type: id_example
+      type: id_meeting
       color: "gray"
     - title: "活动"
       type: id_picture
@@ -24,8 +24,8 @@ page_data:
 
   list:
     # picture
-    - type: id_picture
-      project_name: "项目示例"
+    - type: id_meeting
+      project_name: "俱乐部首次会议"
       project_excerpt: "图片"
       img: ":project2_thumb.jpg"
       img_title: "img title2"
