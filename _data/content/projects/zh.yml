@@ -34,29 +34,18 @@ page_data:
         麦克迈斯中文俱乐部首次会议会议将于明天（2024年10月22日）的自习课（PLT）在孙老师的教室（13183室，C楼下层）举行。 
         请社员们出席会议以了解有关今年俱乐部的活动和日程安排等的重要信息。
         俱乐部还将为参加会议的人员分发小吃。希望在那里见到大家！
-
-    # quote
-    - type: id_quote
-      project_name: "项目示例"
-      project_excerpt: "William Shakespeare"
-      #img: ":project1_thumb.jpg"
-      #img_title: "img title3"
-      date: "2021-05-27"
+        
+    - type: id_meeting
+      project_name: "俱乐部第二次会议"
+      project_excerpt: "俱乐部首次会议将于下周二（2024年11月19日）举行。"
+      #img: "projects-heading.jpg"
+      #img_title: "麦克迈斯中学"
+      date: "2024-11-13"
       post: |
-        Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
+         麦克迈斯中文俱乐部第二次会议会议将于下周二（2024年11月19日）的自习课（PLT）在孙老师的教室（13183室，C楼下层）举行。
+         请社员们出席会议以了解有关今年俱乐部的活动和日程安排等的重要信息。
+         俱乐部还将组织大家打电子游戏、下棋。希望在那里见到大家！
+         
     - type: id_quote
       project_name: "示例项目"
       project_excerpt: "Albert Einstein"
