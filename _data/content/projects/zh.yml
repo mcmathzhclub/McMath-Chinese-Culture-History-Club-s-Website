@@ -26,8 +26,8 @@ page_data:
     # picture
     - type: id_meeting
       project_name: "俱乐部首次会议"
-      project_excerpt: "图片"
-      img: ":project2_thumb.jpg"
+      project_excerpt: "俱乐部首次会议将于明天（2024年10月22日）举行。"
+      img: ":projects-heading.jpg"
       img_title: "img title2"
       date: "2021-04-23"
       post: |
