@@ -31,10 +31,7 @@ page_data:
       img_title: "img title2"
       date: "2024-10-21"
       post: |
-        # Title
-        This is project content.
-
-        ![Image](:project2_thumb.jpg)
+        来，让我看看！
 
     # quote
     - type: id_quote
