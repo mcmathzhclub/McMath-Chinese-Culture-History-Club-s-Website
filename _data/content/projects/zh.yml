@@ -38,7 +38,7 @@ page_data:
     - type: id_meeting
       project_name: "俱乐部第二次会议"
       project_excerpt: "俱乐部首次会议将于下周二（2024年11月19日）举行。"
-      img: "projects-heading.jpg"
+      img: ":projects-heading.jpg"
       img_title: "麦克迈斯中学"
       date: "2024-11-13"
       post: |
@@ -49,7 +49,7 @@ page_data:
     - type: id_meeting
       project_name: "俱乐部会议日程安排"
       project_excerpt: "俱乐部将会在第二次会议每两周在一节自习课（PLT）的时候举行一次会议。"
-      img: "projects-heading.jpg"
+      img: ":projects-heading.jpg"
       img_title: "麦克迈斯中学"
       date: "2024-11-13"
       post: |
@@ -59,7 +59,7 @@ page_data:
     - type: id_meeting
       project_name: "第二次会议提醒"
       project_excerpt: "俱乐部首次会议将于明天（2024年11月19日）举行。"
-      img: "projects-heading.jpg"
+      img: ":projects-heading.jpg"
       img_title: "麦克迈斯中学"
       date: "2024-11-18"
       post: |
