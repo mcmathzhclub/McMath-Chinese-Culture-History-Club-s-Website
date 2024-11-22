@@ -37,7 +37,7 @@ page_data:
 
     - type: id_meeting
       project_name: "Second Meeting"
-      project_excerpt: "Chinese Club's First Meeting will be held on Tuesday during PLT (Nov. 22, 2024)."
+      project_excerpt: "Chinese Club's Second Meeting will be held on Tuesday during PLT (Nov. 22, 2024)."
       img: ":projects-heading.jpg"
       img_title: "R.A.McMath Secondary"
       date: "2024-11-13"
@@ -60,7 +60,7 @@ page_data:
 
     - type: id_meeting
       project_name: "Second Meeting Reminder"
-      project_excerpt: "Chinese Club's First Meeting will be held on Tuesday during PLT (Nov. 22, 2024)."
+      project_excerpt: "Chinese Club's Second Meeting will be held on Tuesday during PLT (Nov. 22, 2024)."
       img: ":projects-heading.jpg"
       #img_title: "R.A.McMath Secondary School"
       date: "2024-11-18"
