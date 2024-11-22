@@ -38,35 +38,30 @@ page_data:
     - type: id_meeting
       project_name: "俱乐部第二次会议"
       project_excerpt: "俱乐部首次会议将于下周二（2024年11月19日）举行。"
-      #img: "projects-heading.jpg"
-      #img_title: "麦克迈斯中学"
+      img: "projects-heading.jpg"
+      img_title: "麦克迈斯中学"
       date: "2024-11-13"
       post: |
          麦克迈斯中文俱乐部第二次会议会议将于下周二（2024年11月19日）的自习课（PLT）在孙老师的教室（13183室，C楼下层）举行。
          请社员们出席会议以了解有关今年俱乐部的活动和日程安排等的重要信息。
          俱乐部还将组织大家打电子游戏、下棋。希望在那里见到大家！
-         
-    - type: id_quote
-      project_name: "示例项目"
-      project_excerpt: "Albert Einstein"
-      img: ":project2_thumb.jpg"
-      img_title: "img title4"
-      date: "2021-06-08"
+
+    - type: id_meeting
+      project_name: "俱乐部会议日程安排"
+      project_excerpt: "俱乐部将会在第二次会议每两周在一节自习课（PLT）的时候举行一次会议。"
+      img: "projects-heading.jpg"
+      img_title: "麦克迈斯中学"
+      date: "2024-11-13"
       post: |
-        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
-    - type: id_quote
-      project_name: "示例项目"
-      project_excerpt: "Mae West"
-      img: ":project1_thumb.jpg"
-      img_title: "img title5"
-      date: "2021-08-20"
+          提醒大家，我们俱乐部的会议将在第二次会议之后每两周举行一次。
+          会议将在自习课（PLT）期间（<kbd>8:35-9:20</kbd>）举行，请各位社员准时出席！
+
+    - type: id_meeting
+      project_name: "第二次会议提醒"
+      project_excerpt: "俱乐部首次会议将于明天（2024年11月19日）举行。"
+      img: "projects-heading.jpg"
+      img_title: "麦克迈斯中学"
+      date: "2024-11-18"
       post: |
-        You only live once, but if you do it right, once is enough.
-    - type: id_quote
-      project_name: "示例项目"
-      project_excerpt: "Mahatma Gandhi "
-      img: ":project2_thumb.jpg"
-      img_title: "img title6"
-      date: "2021-12-20"
-      post: |
-        改变世界,从改变自己开始
+          提醒大家，我们的第二次会议将于明天星期二（2024 年 11 月 19 日）的自习课（PLT）在孙老师的教室（C-13183）举行。
+          希望在那里见到大家！
