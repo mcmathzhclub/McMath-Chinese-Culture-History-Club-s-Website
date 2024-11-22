@@ -4,21 +4,21 @@
 ###########################################################
 page_data:
   main:
-    header: "项目"
-    info: "你的项目页面描述。"
+    header: "通知"
+    info: "麦克迈斯中文俱乐部"
     text_color: "白色"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
     back_color: "浅蓝色"
 
   category:
-    - title: "示例"
+    - title: "会议"
       type: id_example
       color: "gray"
-    - title: "图片"
+    - title: "活动"
       type: id_picture
       color: "#62b462"
-    - title: "引用"
+    - title: "人事"
       type: id_quote
       color: "#2FD0ED"
 
