@@ -60,9 +60,9 @@ There are many distinctive features of Chinese Chess, including the cannon (pao)
 #### Famous Characters of Ancient History
 China is home to the oldest of the major world civilizations. She was ruled by various dynasties for much of its history. Throughout the period many famous Characters stepped out of their Normal life and gave China a huge step towards civilization.
 
-#### Modern Popular Game Intro
-To learn more about the game "Black Myth: Wukong", please click <a href="https://www.youtube.com/watch?v=Fz_uQNQBK0g
-">here</a> to watch the video on youtube.
+#### Chinese History
+To learn more about the Chinese History, please click <a href="https://www.youtube.com/watch?v=Fz_uQNQBK0g
+">here</a> to watch the video on youtube. This video summarized the different dynasties of China.
 
 #### PPT Download
 <p><a href="https://1drv.ms/p/s!Arf9Tjdo5CE5iqA2BfiL7QK1m8J07w?e=eKow5d">Download the PPT file of this meeting</a></p>
