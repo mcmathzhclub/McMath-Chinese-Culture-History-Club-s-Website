@@ -1,22 +1,22 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: id_What_is_this
-title: "Welcome to Jekyll!"
+lng_pair: McMath Chinese Culture & History Club's Second Meeting
+title: "Chinese Culture & History Club's Second Meeting"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author: Jekyll
+author: Jason Su
 # multiple category is not supported
-category: jekyll
+category: Meeting
 # multiple tag entries are possible
-tags: [jekyll, example post, sample, test]
+tags: [Meeting]
 # thumbnail image for post
-img: ":post_pic3.jpg"
+img: ":post_pic1.jpg"
 # disable comments on this page
 #comments_disable: true
 
 # publish date
-date: 2022-01-01 10:04:30 +0900
+date: 2024-11-19 18:30:00 +0900
 
 # seo
 # if not specified, date will be used.
@@ -36,26 +36,35 @@ date: 2022-01-01 10:04:30 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+# published: false
 ---
 <!-- outline-start -->
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.<!-- outline-end --> You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Chinese Culture & History Club's second meeting
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<!-- outline-end -->
 
-Jekyll also offers powerful support for code snippets:
+## McMath Chinese Culture & History Club's Second Meeting
+{:data-align="center"}
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+### Brief View
+McMath Chinese Culture & History Club's second meeting has been sucessfully held on Nov.19, 2024 at PLT in Ms.Sun's room 13183 (lower C-wing). Information about our club's coming event, meeting date have been shared during the meeting. Club members also discussed about Chinese chess and video games related to Chinese culture.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+#### Meeting Dates
+Chinese Culture & History Club is going to hold meetings biweekly on Tuesday PLT from now on.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+#### About Chinese Chess (Xiangqi)
+Chinese chess is a game which represents a battle between two armies, with the primary object being to checkmate the enemy's general (king). 
+There are many distinctive features of Chinese Chess, including the cannon (pao), which must jump to capture.
+
+#### Famous Characters of Ancient History
+China is home to the oldest of the major world civilizations. She was ruled by various dynasties for much of its history. Throughout the period many famous Characters stepped out of their Normal life and gave China a huge step towards civilization.
+
+#### Modern Popular Game Intro
+To learn more about the game "Black Myth: Wukong", please click <p><a href="https://www.youtube.com/watch?v=Fz_uQNQBK0g
+">here</a></p> to watch the video on youtube.
+
+#### PPT Download
+<p><a href="https://1drv.ms/p/s!Arf9Tjdo5CE5iqA2BfiL7QK1m8J07w?e=eKow5d">Download the PPT file of this meeting</a></p>
+
+![such a lovely place](:post_pic1.jpg){:data-align="center"}
