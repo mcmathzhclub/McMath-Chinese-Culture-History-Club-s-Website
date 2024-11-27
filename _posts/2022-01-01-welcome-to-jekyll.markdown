@@ -61,8 +61,8 @@ There are many distinctive features of Chinese Chess, including the cannon (pao)
 China is home to the oldest of the major world civilizations. She was ruled by various dynasties for much of its history. Throughout the period many famous Characters stepped out of their Normal life and gave China a huge step towards civilization.
 
 #### Modern Popular Game Intro
-To learn more about the game "Black Myth: Wukong", please click <p><a href="https://www.youtube.com/watch?v=Fz_uQNQBK0g
-">here</a></p> to watch the video on youtube.
+To learn more about the game "Black Myth: Wukong", please click <a href="https://www.youtube.com/watch?v=Fz_uQNQBK0g
+">here</a> to watch the video on youtube.
 
 #### PPT Download
 <p><a href="https://1drv.ms/p/s!Arf9Tjdo5CE5iqA2BfiL7QK1m8J07w?e=eKow5d">Download the PPT file of this meeting</a></p>
