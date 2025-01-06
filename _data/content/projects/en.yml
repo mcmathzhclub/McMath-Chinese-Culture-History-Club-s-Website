@@ -77,3 +77,21 @@ page_data:
       post: |
         A reminder to everyone that there is a club event tomorrow Tuesday, at PLT in Ms.Sun room C-13183.
         We will go over topics about traditional Chinese medicine. Hope to see everyone there!
+
+    - type: id_meeting
+      project_name: "McMath Chinese Chess Tournament"
+      project_excerpt: "McMath Chinese Chess Tournament will be held on Tuesday during PLT (Jan. 7, 2025)."
+      img: ":projects-heading.jpg"
+      #img_title: "R.A.McMath Secondary School"
+      date: "2025-01-06"
+      post: |
+        We hope you're having a wonderful winter break and enjoying your holiday season!
+        This is a friendly reminder about the upcoming McMath Chinese Chess Tournament.
+        Here are the event details:
+        Date: Tuesday, January 7th, 2025
+        Time: During PLT. Please arrive on time!
+        Location: Ms. Sun’s Classroom(C-wing, Room 13183)
+        Please arrive a few minutes early for check-in and a quick review of the rules.
+        Punctuality is essential to keep the tournament on schedule.
+        If you have any questions or concerns, feel free to reach out to Yuhong or Warren or Chinese Culture and History Club.
+        We look forward to seeing you at the tournament.
