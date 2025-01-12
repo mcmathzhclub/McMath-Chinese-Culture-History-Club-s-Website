@@ -36,7 +36,7 @@ date: 2024-12-03 21:00:00 +0900
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+published: true
 ---
 ## Chinese Medicine Presentation
 {:data-align="center"}
