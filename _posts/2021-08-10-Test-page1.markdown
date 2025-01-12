@@ -45,7 +45,7 @@ McMath Chinese Chess Tournament has been has been sucessfully held on Jan.07, 20
 
 ![such a lovely place](:001.png){:data-align="center"}
 ![such a lovely place](:002.png){:data-align="center"}
-![such a lovely place](:003.png){:data-align="center"}
+![such a lovely place](:009.png){:data-align="center"}
 ![such a lovely place](:004.png){:data-align="center"}
 ![such a lovely place](:005.png){:data-align="center"}
 ![such a lovely place](:006.png){:data-align="center"}
