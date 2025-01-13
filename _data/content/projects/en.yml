@@ -95,3 +95,15 @@ page_data:
         Punctuality is essential to keep the tournament on schedule.
         If you have any questions or concerns, feel free to reach out to Yuhong or Warren or Chinese Culture and History Club.
         We look forward to seeing you at the tournament.
+
+ - type: id_meeting
+      project_name: "Chinese Calligraphy Special Event Reminder"
+      project_excerpt: "Chinese Calligraphy Special Event will be held on Tuesday during PLT (Jan. 14, 2025)."
+      img: ":projects-heading.jpg"
+      #img_title: "R.A.McMath Secondary School"
+      date: "2025-01-12"
+      post: |
+        We will be hosting our seconed special event of the year next week on Jan 14th at PLT.
+        We will talk about Chinese Calliagraphy and prepare for the Chinese New Year!
+        There is also a sign up sheet on the WeChat group chat. Please fill your name on it. 
+        We hope to see everyone there!
